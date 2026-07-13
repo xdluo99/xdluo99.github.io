@@ -9,8 +9,12 @@ redirect_from:
 
 ## About Me
 
-Hello! I am **Xiaodong Luo (罗小东)**, a **Ph.D. candidate** in the **Department of Mathematical Sciences** at **Tsinghua University**, supervised by **Prof. Zongxia Liang**.
+I am a postdoctral fellow in the Department of Applied Mathematics at The Hong Kong Polytechnic University, supervised by **Prof. Xiang Yu**.
 
-My research interests lie primarily in **Stochastic Control and Optimization**, **Financial Mathematics**, and **Reinforcement Learning**, with a particular focus on **time-inconsistent singular control problems** and **reinforcement learning frameworks for stochastic control**.
+I obtained my PH.D. in statistics in the **Department of Mathematical Sciences** at **Tsinghua University**, supervised by **Prof. Zongxia Liang**.
 
-I am always open to collaboration and discussion with fellow researchers and students!
+## Research Interests
+
+My research interests lie primarily in **Stochastic Control and Optimization**, **Financial Mathematics**, and **Reinforcement Learning**, with a particular focus on **singular control** and **variational inequality**.
+
+I am always open to collaboration and discussion with fellow researchers!

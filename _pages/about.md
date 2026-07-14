@@ -15,6 +15,8 @@ I obtained my PH.D. in statistics in the **Department of Mathematical Sciences**
 
 ## Research Interests
 
-My research interests lie primarily in **Stochastic Control and Optimization**, **Financial Mathematics**, and **Reinforcement Learning**, with a particular focus on **singular control** and **variational inequality**.
+- **Stochastic Control and Optimization**
+- **Reinforcement Learning**
+- **Financial Mathematics**
 
 I am always open to collaboration and discussion with fellow researchers!

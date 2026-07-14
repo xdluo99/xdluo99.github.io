@@ -13,9 +13,9 @@ title                    : "Xiaodong Luo / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xiaodong Luo"
 description              : &description "Personal website of Xiaodong Luo, Postdoctoral Fellow in Financial Mathematics and Stochastic Control"
-url                      : https://xdluo.github.io   
+url                      : https://xdluo99.github.io   
 baseurl                  : ""                        
-repository               : "xdluo/xdluo.github.io"   
+repository               : "xdluo99/xdluo99.github.io"   
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

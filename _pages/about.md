@@ -17,7 +17,7 @@ I obtained my PH.D. in statistics in the **Department of Mathematical Sciences**
 
 My research interests lies at the intersection of stochastic control and financial mathematics. I am particularly interested in:
 
-- **Singular control problems and variational inequalities**
-- **Time-inconsistent control problems and equilibrium**
-- **Reinforcement learning for stochastic control**
+- **Singular stochastic control problems and variational inequalities**
+- **Time-inconsistent stochastic control problems and equilibrium**
+- **Reinforcement learning for stochastic control problems**
 

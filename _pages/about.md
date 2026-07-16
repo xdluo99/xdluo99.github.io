@@ -9,14 +9,15 @@ redirect_from:
 
 ## About Me
 
-I am a postdoctral fellow in the Department of Applied Mathematics at The Hong Kong Polytechnic University, supervised by **Prof. Min Dai** and **Prof. Xiang Yu**.
+I am a postdoctral fellow in the Department of Applied Mathematics at The Hong Kong Polytechnic University, supervised by **[Prof. Xiang Yu](https://www.polyu.edu.hk/ama/people/academic-staff/prof-yu-xiang/)**.
 
-I obtained my PH.D. in statistics in the **Department of Mathematical Sciences** at **Tsinghua University**, supervised by **Prof. Zongxia Liang**.
+I obtained my PH.D. in statistics in the **Department of Mathematical Sciences** at **Tsinghua University**, supervised by **[Prof. Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm)**.
 
 ## Research Interests
 
-- **Stochastic Control and Optimization**
-- **Reinforcement Learning**
-- **Financial Mathematics**
+My research interests lies at the intersection of stochastic control and financial mathematics. I am particularly interested in:
 
-I am always open to collaboration and discussion with fellow researchers!
+- **Singular control problems and variational inequalities**
+- **Time-inconsistent control problems and equilibrium**
+- **Reinforcement learning for stochastic control**
+

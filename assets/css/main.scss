@@ -44,3 +44,8 @@
     clear: both;
 }
 
+.sidebar {
+    overflow-y: visible !important;   /* 或使用 hidden，但 visible 更自然 */
+    height: auto !important;          /* 取消固定高度，让内容撑开 */
+    max-height: none !important;      /* 取消最大高度限制 */
+}

@@ -39,7 +39,8 @@
 ;
 
 .page__footer {
-    margin-top: 6rem;   /* 调整这个值可以控制间距大小 */
+    position: relative !important;   /* 取消 fixed 或 sticky 定位 */
+    margin-top: 6rem;                /* 与上方内容保持间距 */
     clear: both;
 }
 .sidebar {
